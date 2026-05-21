@@ -1,0 +1,5 @@
+# YouTube競合動画収集 — チャンネル設定
+# 別のチャンネルで使う場合はこのファイルの値を書き換えてください
+
+APPS_SCRIPT_URL=https://script.google.com/macros/s/AKfycbx5sHlvY7s2C5sBThInsZPRs8o-kGwoqBo6K2aeRigOo55rDlpE6YKX8i-owJqoRt0CHw/exec
+SPREADSHEET_ID=1O4ydQcTkZsvIA4STKF9ZZpTVNOXuaij_e-F7qJWxWdo
